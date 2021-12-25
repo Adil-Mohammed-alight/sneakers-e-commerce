@@ -1,0 +1,72 @@
+@media only screen and (max-width: 376px){
+    .left-block{
+        margin-left: 0px;
+        display: flex;
+        
+        
+    }
+    .carousel-inner{
+        border-radius: 0px;
+        
+    }
+    .craousel{
+        width: 400px;
+        margin-left: 0px;
+        margin-top: 0px;
+        
+        
+    
+    }
+    #nav-head{
+        height: 70px;
+        
+        
+    }
+    .under-line{
+        display: none;
+    }
+    .navbar-toggler{
+        display: none;
+    }
+    #nav-menu{
+        display: block;
+        margin-left:5px ;
+        
+    }
+    #logo{
+        position: relative;
+        right: 175px;
+        
+       
+        
+    }
+    .order{
+        display: block;
+    }
+    .increment-decre{
+        width: 100%;
+        
+
+    }
+    #cart-btn{
+        width: 100%;
+        margin: 0px;
+        margin-top: 20px;
+    }
+    #para{
+        width: 340PX;
+        margin:0px 5px ;
+    }
+    #fall{
+        font-size: 30px;
+        width: 300px;
+    }
+    .comp-name{
+        font-size: 15px;
+        margin: 10px 0;
+        font-weight: 700;
+    }
+    
+      
+    
+}
